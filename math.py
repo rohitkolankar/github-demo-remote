@@ -1,1 +1,1 @@
-#add functiondef add(x,y):    return (x+y)#sub functiondef subtract(x,y):    pass#multiply functiondef multiply(x,y):    pass#div functiondef divide(x,y):    pass
+#add functiondef add(x,y):    return (x+y)#sub functiondef subtract(x,y):    pass#multiply functiondef multiply(x,y):    pass#div functiondef divide(x,y):    passdef square(x):    return x*x
